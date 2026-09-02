@@ -151,9 +151,9 @@ This project is for educational and research purposes only. Forecasts are inhere
 
 ## Author
 
-**Oluwatimilehin Tomoloju**
+**Liel Takawira**
 
-- GitHub: [@oluwatimilehintomoloju](https://github.com/oluwatimilehintomoloju)
+- GitHub: [@LielTaks](https://github.com/LielTaks)
 
 ## License
 
